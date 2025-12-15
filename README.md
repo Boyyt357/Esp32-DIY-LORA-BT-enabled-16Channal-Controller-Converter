@@ -1,4 +1,7 @@
 # **DIY LoRa RC Controller/Converter (16 Channels, BLE, iBus)**
+## **https://youtu.be/yAmBNegWyns**
+
+<img width="1376" height="768" alt="Gemini_Generated_Image_khog3hkhog3hkhog" src="https://github.com/user-attachments/assets/eb7cad4a-443a-420e-ac1e-c99f02610f04" />
 
 This project provides a robust, long-range 16-channel control system built on two ESP32 modules and LoRa transceivers (like the Ra-02/SX1278). It converts a standard RC transmitter's PPM output into both a long-range LoRa signal for drones/vehicles and a local Bluetooth Gamepad for simulators.
 
